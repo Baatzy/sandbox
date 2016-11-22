@@ -12,7 +12,7 @@
 	</body>
 <html>
 
-<div class="”container”">
+<div class="container">
 <h1><a href="”#”">Stefan's Bomb Bootstrap Site</a></h1>
 
 <div class="navbar">
@@ -59,9 +59,16 @@
 
 <div class="parallax"></div>
 
-<div style="height:200px;background-color:white;font-size:20px">
+<div style="height:50px;background-color:white;font-size:20px">
+<br>
 So this is called a parallax effect and it holds a moving foreground against a fixed position image in the background. Cool, huh?
 </div>
+<br>
+
+  <h2>Heads up!</h2>
+  <div class="alert alert-success">
+    <strong>Oh yes!</strong> Parallax is the shit and this alert box is green, letting you know that things are going to be ok!
+  </div>
 
 </body>
 
